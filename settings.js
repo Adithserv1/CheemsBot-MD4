@@ -57,17 +57,17 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['917510569273'] //ur owner number
 global.ownername = "𝗔𝗱𝗶𝘁𝗵𝘀𝗲𝗿 🔮" //ur owner name
 global.ytname = "YT: " //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "Insta: Adith" //ur github or insta name
 global.location = "India" //ur location
 
 //bot bomdy 
 global.owner = ['917510569273']
 global.ownertag = '916907137523' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = '♕︎𝗗𝗮𝗿𝗸𝗲𝘅𝗲𝗯𝗼𝘁-𝗠𝗗♕︎' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "👻" //ur menu react emoji
 global.themeemoji = "🔖" //ur theme emoji
 global.packname = "\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "Darkexe🔮" //ur sticker watermark author
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = [''] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -107,12 +107,12 @@ global.sp = '⭔'
 global.mess = {
     success: 'Ok set👻✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Bot Must Be Admin First 🙂!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: '📌 In process. . . .',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
