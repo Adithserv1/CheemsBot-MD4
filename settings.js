@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['917510569273'] //ur owner number
-global.ownername = "𝗔𝗱𝗶𝘁𝗵𝘀𝗲𝗿 🔮" //ur owner name
+global.ownername = "𝗗𝗮𝗿𝗸𝗲𝘅𝗲 🔮" //ur owner name
 global.ytname = "YT: " //ur yt chanel name
 global.socialm = "Insta: Adith" //ur github or insta name
 global.location = "India" //ur location
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Ok set👻✓',
+    success: 'Ok done👻✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First 🙂!',
     owner: 'This Feature Is Only For Owner!',
